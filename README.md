@@ -30,11 +30,9 @@ To run the project on your local machine, follow these steps:
 1. **Clone the repository:**
 ```
 bash
-   git clone [repository_url]
-   cd course-compass-ai-paths
+   git clone [https://github.com/ravikirank2018/course-compass-ai-paths-main]
    
 ```
-(Replace `[repository_url]` with the actual URL of the project repository.)
 
 2. **Install dependencies:**
 ```
